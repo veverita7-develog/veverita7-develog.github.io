@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>develog</title>
+  
+  <subtitle>For Memory</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://veverita7-develog.github.io/"/>
+  <updated>2020-03-13T00:51:28.075Z</updated>
+  <id>https://veverita7-develog.github.io/</id>
+  
+  <author>
+    <name>Jungjin Park</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Init Blog</title>
+    <link href="https://veverita7-develog.github.io/wiki/Blog-Init/"/>
+    <id>https://veverita7-develog.github.io/wiki/Blog-Init/</id>
+    <published>2020-03-13T03:39:05.000Z</published>
+    <updated>2020-03-13T00:51:28.075Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="블로그-시작"><a href="#블로그-시작" class="headerlink" title="블로그 시작"></a>블로그 시작</h2><ul><li>개인 코드 저장소</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;블로그-시작&quot;&gt;&lt;a href=&quot;#블로그-시작&quot; class=&quot;headerlink&quot; title=&quot;블로그 시작&quot;&gt;&lt;/a&gt;블로그 시작&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;개인 코드 저장소&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Log" scheme="https://veverita7-develog.github.io/categories/Log/"/>
+    
+    
+      <category term="Log" scheme="https://veverita7-develog.github.io/tags/Log/"/>
+    
+  </entry>
+  
+</feed>
